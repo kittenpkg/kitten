@@ -1,2 +1,2 @@
-version = require("./version")
-print("Kitten Test:" + version.kitten())
+version = require("./version");
+print("Kitten Test:" + version.kitten());
