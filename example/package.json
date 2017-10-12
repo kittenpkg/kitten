@@ -1,0 +1,13 @@
+{
+  "name": "kitten-package-example",
+  "version": "1.0.0",
+  "description": "My kitten package manager example."
+  "author": "Zack Pace",
+  "main": "index.js",
+  "license": "MIT",
+  "readmeFileName": "readme.htm",
+  "dependencies": [],
+  "scripts": {},
+  "hostedDocumentation": "true",
+  ""
+}
