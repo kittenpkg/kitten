@@ -1,5 +1,5 @@
 jsonData = require('./version.json');
 
-function getVersion() {
+function kitten() {
   return jsonData.major + "." + jsonData.minor + "." + jsonData.release + ":" + jsonData.pre
 };
