@@ -1,4 +1,4 @@
-import GitHub from "github.js";
+var GitHub = require('github.js')
 var ghdownload = require('github-download')
 
 gh = new GitHub();
