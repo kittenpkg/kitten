@@ -6,5 +6,7 @@ gh = new GitHub();
 repo = gh.getRepositiory('kittenpkg','kitten');
 
 function kitten(install) {
-  ghdownload({user: 'kittenpkg', repo: 'kitten', ref: install}, process.cwd())
+  this.getDownload(package) {
+    ghdownload({user: 'kittenpkgs', repo: package, ref: 'master'}, process.cwd())
+  }
 };
